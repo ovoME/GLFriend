@@ -13,3 +13,4 @@ Before using this app, please use Disable GPU to enter the app and switch it to 
 ## Credits
 #### VisualEhrmanntraut for the NootedRed project
 #### Seey6 for the code of solving the problem 
+ 

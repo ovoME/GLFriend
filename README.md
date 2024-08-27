@@ -11,5 +11,5 @@ An OpenGL application that uses Dual Source Blend and causes NootedRed to panic.
 Before using this app, please use Disable GPU to enter the app and switch it to OpenGL only mode instead of Metal. And completely exit this application!
 
 ## Credits
-VisualEhrmanntraut for the NootedRed project
-Seey6 for the code of solving the problem 
+#### VisualEhrmanntraut for the NootedRed project
+#### Seey6 for the code of solving the problem 
